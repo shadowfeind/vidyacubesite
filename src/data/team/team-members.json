@@ -1,0 +1,50 @@
+[
+  {
+    "img": "../assets/images/team/img-1.jpg",
+    "animate1": "../assets/images/team/shapes/cross.png",
+    "animate2": "../assets/images/team/shapes/circle.png",
+    "animate3": "../assets/images/team/shapes/circle-half.png",
+    "animate4": "../assets/images/team/shapes/cross.png",
+    "animate5": "../assets/images/team/shapes/box.png",
+    "animate6": "../assets/images/team/shapes/circle-half.png",
+    "animate7": "../assets/images/team/shapes/flow.png",
+    "name": "Kritagya Rana",
+    "title": "Senior Frontend Engineer"
+  },
+  {
+    "img": "../assets/images/team/img-2.jpg",
+    "animate1": "../assets/images/team/shapes/cross.png",
+    "animate2": "../assets/images/team/shapes/circle.png",
+    "animate3": "../assets/images/team/shapes/circle-half.png",
+    "animate4": "../assets/images/team/shapes/cross.png",
+    "animate5": "../assets/images/team/shapes/box.png",
+    "animate6": "../assets/images/team/shapes/circle-half.png",
+    "animate7": "../assets/images/team/shapes/flow.png",
+    "name": "Suresh M. Sanu",
+    "title": "Senior Backend Engineer"
+  },
+  {
+    "img": "../assets/images/team/img-3.jpg",
+    "animate1": "../assets/images/team/shapes/cross.png",
+    "animate2": "../assets/images/team/shapes/circle.png",
+    "animate3": "../assets/images/team/shapes/circle-half.png",
+    "animate4": "../assets/images/team/shapes/cross.png",
+    "animate5": "../assets/images/team/shapes/box.png",
+    "animate6": "../assets/images/team/shapes/circle-half.png",
+    "animate7": "../assets/images/team/shapes/flow.png",
+    "name": "Kiran Rai",
+    "title": "Frontend Engineer"
+  },
+  {
+    "img": "../assets/images/team/img-4.jpg",
+    "animate1": "../assets/images/team/shapes/cross.png",
+    "animate2": "../assets/images/team/shapes/circle.png",
+    "animate3": "../assets/images/team/shapes/circle-half.png",
+    "animate4": "../assets/images/team/shapes/cross.png",
+    "animate5": "../assets/images/team/shapes/box.png",
+    "animate6": "../assets/images/team/shapes/circle-half.png",
+    "animate7": "../assets/images/team/shapes/flow.png",
+    "name": "Amir Karmacharya",
+    "title": "Frontend Engineer"
+  }
+]

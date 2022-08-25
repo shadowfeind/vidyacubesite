@@ -1,0 +1,42 @@
+[
+  {
+    "img": "../assets/images/team/img-4.jpg",
+    "name": "Linda Douglas",
+    "title": "Product Designer"
+  },
+  {
+    "img": "../assets/images/team/img-5.jpg",
+    "name": "Rayan Clarck",
+    "title": "Content Writer"
+  },
+  {
+    "img": "../assets/images/team/img-4.jpg",
+    "name": "RayJoan Brooks",
+    "title": "web developer"
+  },
+  {
+    "img": "../assets/images/team/img-5.jpg",
+    "name": "Joan Brooks",
+    "title": "ui designer"
+  },
+  {
+    "img": "../assets/images/team/img-4.jpg",
+    "name": "Linda Douglas",
+    "title": "Product Designer"
+  },
+  {
+    "img": "../assets/images/team/img-5.jpg",
+    "name": "Rayan Clarck",
+    "title": "Content Writer"
+  },
+  {
+    "img": "../assets/images/team/img-4.jpg",
+    "name": "RayJoan Brooks",
+    "title": "web developer"
+  },
+  {
+    "img": "../assets/images/team/img-5.jpg",
+    "name": "Joan Brooks",
+    "title": "ui designer"
+  }
+]

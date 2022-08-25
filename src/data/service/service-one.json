@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "uil uil-layer-group-slash",
+    "img": "../assets/images/icons/bg-1.png",
+    "title": "Unique Design",
+    "text": "Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod teporara incididunt training "
+  },
+  {
+    "icon": "uil uil-users-alt",
+    "img": "../assets/images/icons/bg-2.png",
+    "title": "Easy Communications",
+    "text": "Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod teporara incididunt training "
+  },
+  {
+    "icon": "uil uil-headphones",
+    "img": "../assets/images/icons/bg-3.png",
+    "title": "24/7 Hour Support",
+    "text": "Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod teporara incididunt training "
+  }
+]

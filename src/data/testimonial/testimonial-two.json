@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/testimonial/img-4.png",
+    "shape": "../assets/images/testimonial/shape-1.png",
+    "title": "nancy pocker",
+    "heroTitle": "themeforest",
+    "paragraphText": "Awesome Product highly recomended Lorem ipsum dolor alamet, nsectetur  mayalipol tempor eiusmod tempor incubto ectetur alasiqua enim ad nim veniam, quis nostrud ullam consectetur mayalipol quis nostrud ullam consecte.",
+    "icon": "flaticon-quotation"
+  },
+  {
+    "img": "../assets/images/testimonial/img-5.png",
+    "shape": "../assets/images/testimonial/shape-1.png",
+    "title": "nancy pocker",
+    "heroTitle": "themeforest",
+    "paragraphText": "Awesome Product highly recomended Lorem ipsum dolor alamet, nsectetur  mayalipol tempor eiusmod tempor incubto ectetur alasiqua enim ad nim veniam, quis nostrud ullam consectetur mayalipol quis nostrud ullam consecte.",
+    "icon": "flaticon-quotation"
+  },
+  {
+    "img": "../assets/images/testimonial/img-6.png",
+    "shape": "../assets/images/testimonial/shape-1.png",
+    "title": "nancy pocker",
+    "heroTitle": "themeforest",
+    "paragraphText": "Awesome Product highly recomended Lorem ipsum dolor alamet, nsectetur  mayalipol tempor eiusmod tempor incubto ectetur alasiqua enim ad nim veniam, quis nostrud ullam consectetur mayalipol quis nostrud ullam consecte.",
+    "icon": "flaticon-quotation"
+  }
+]

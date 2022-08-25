@@ -1,0 +1,23 @@
+[
+  {
+    "img": "../assets/images/icons/bg-1.png",
+    "textOne": "+44 545 989 62698",
+    "textTwo": "+44 545 989 62698",
+    "className": "phone-item",
+    "icon": "uil uil-phone-pause"
+  },
+  {
+    "img": "../assets/images/icons/bg-4.png",
+    "textOne": "28 Green Tower, Street Name",
+    "textTwo": "New York City, USA",
+    "className": "address-item",
+    "icon": "uil uil-map-marker"
+  },
+  {
+    "img": "../assets/images/icons/bg-2.png",
+    "textOne": "2example@gmail.com",
+    "textTwo": "example23@gmail.com",
+    "className": "email-item",
+    "icon": "uil uil-envelope-minus"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "img": "../assets/images/icons/bg-1.png",
+    "title": "Extra Secure",
+    "icon": "uil uil-shield-check"
+  },
+  {
+    "img": "../assets/images/icons/bg-2.png",
+    "title": "free setup",
+    "icon": "fas fa-cogs"
+  },
+  {
+    "img": "../assets/images/icons/bg-3.png",
+    "title": "24/7 Hour Support",
+    "icon": "uil uil-headphones"
+  },
+  {
+    "img": "../assets/images/icons/bg-4.png",
+    "title": "Mobile Apps",
+    "icon": "fas fa-mobile-alt"
+  },
+
+  {
+    "img": "../assets/images/icons/bg-1.png",
+    "title": "Exam Result",
+    "icon": "fas fa-paste"
+  },
+  {
+    "img": "../assets/images/icons/bg-2.png",
+    "title": "Virtula Class",
+    "icon": "fas fa-desktop"
+  },
+  {
+    "img": "../assets/images/icons/bg-3.png",
+    "title": "Attendance",
+    "icon": "fas fa-user-clock"
+  },
+  {
+    "img": "../assets/images/icons/bg-4.png",
+    "title": "E Materials",
+    "icon": "fas fa-folder"
+  },
+  {
+    "img": "../assets/images/icons/bg-5.png",
+    "title": "Accounting",
+    "icon": "fas fa-money-bill"
+  },
+  {
+    "img": "../assets/images/icons/bg-1.png",
+    "title": "E Library",
+    "icon": "fas fa-folder-open"
+  },
+  {
+    "img": "../assets/images/icons/bg-2.png",
+    "title": "Student Evaluation",
+    "icon": "fas fa-user-graduate"
+  },
+  {
+    "img": "../assets/images/icons/bg-3.png",
+    "title": "Internal Evaluation",
+    "icon": "fas fa-chart-area"
+  },
+  {
+    "img": "../assets/images/icons/bg-5.png",
+    "title": "Responsive Design",
+    "icon": "fas fa-mobile-alt"
+  },
+  {
+    "img": "../assets/images/icons/bg-5.png",
+    "title": "Report Card",
+    "icon": "fas fa-poll-h"
+  }
+]

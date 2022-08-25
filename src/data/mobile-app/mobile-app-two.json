@@ -1,0 +1,123 @@
+[
+  {
+    "img": "../assets/images/app/img-7.png",
+    "addtocart": "add to cart",
+    "addminLink": "Facebook",
+    "title": "Facebook App",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-8.png",
+    "addtocart": "add to cart",
+    "addminLink": "Pinterest Inc.",
+    "title": "Pinterest App",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-9.png",
+    "addtocart": "add to cart",
+    "addminLink": "Pinterest Inc.",
+    "title": "Shareit Share any File",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.5)",
+    "freeText": "$10.00",
+    "price": "price-text"
+  },
+  {
+    "img": "../assets/images/app/img-10.png",
+    "addtocart": "add to cart",
+    "addminLink": "Slak Inc.",
+    "title": "Slak Desktop App",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.7)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-11.png",
+    "addtocart": "add to cart",
+    "addminLink": "Microsoft",
+    "title": "office app",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.8)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-12.png",
+    "addtocart": "add to cart",
+    "addminLink": "Spotify.",
+    "title": "Spotify Music",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.8)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+
+  {
+    "img": "../assets/images/app/img-1.png",
+    "addtocart": "add to cart",
+    "addminLink": "Google Inc.",
+    "title": "Youtube",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-2.png",
+    "addtocart": "add to cart",
+    "addminLink": "teDance",
+    "title": "Tik Tok",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.5)",
+    "freeText": "$10.00",
+    "price": "price-text"
+  },
+  {
+    "img": "../assets/images/app/img-3.png",
+    "addtocart": "add to cart",
+    "addminLink": "Twitter",
+    "title": "Twitter Social Media",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-4.png",
+    "addtocart": "add to cart",
+    "addminLink": "Paypal Inc.",
+    "title": "Paypal Money Transfer",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.7)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-5.png",
+    "addtocart": "add to cart",
+    "addminLink": "Microsoft",
+    "title": "Speed Test Metter",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  },
+  {
+    "img": "../assets/images/app/img-1.png",
+    "addtocart": "add to cart",
+    "addminLink": "Microsoft",
+    "title": "skypee",
+    "icon": "fas fa-star",
+    "reviewCount": "(4.2)",
+    "freeText": "free",
+    "price": "free-text"
+  }
+]

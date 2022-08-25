@@ -1,0 +1,36 @@
+[
+  {
+    "img": "../assets/images/blog/img-1.jpg",
+    "day": "03",
+    "month": "Mar",
+    "metaImg": "../assets/images/meta/img-1.jpg",
+    "titleLink": "You only live once, but if you do it right, once is enough.",
+    "metaTitle": "Tony Croos",
+    "metaInfo": "7 weeks ago",
+    "metaIcon": "uil uil-stopwatch",
+    "link": "Technology"
+  },
+  {
+    "img": "../assets/images/blog/img-2.jpg",
+    "day": "02",
+    "month": "Feb",
+    "metaImg": "../assets/images/meta/img-1.jpg",
+    "titleLink": "You only live once, but if you do it right, once is enough.",
+    "metaTitle": "Tony Croos",
+    "metaInfo": "5 weeks ago",
+    "metaIcon": "uil uil-stopwatch",
+    "link": "Technology"
+  },
+
+  {
+    "img": "../assets/images/blog/img-3.jpg",
+    "day": "01",
+    "month": "Jan",
+    "metaImg": "../assets/images/meta/img-1.jpg",
+    "titleLink": "You only live once, but if you do it right, once is enough.",
+    "metaTitle": "Tony Croos",
+    "metaInfo": "10 weeks ago",
+    "metaIcon": "uil uil-stopwatch",
+    "link": "Technology"
+  }
+]
